@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T18:13:35.915061+00:00",
-  "count": 5,
+  "generated_at": "2026-08-08T21:33:28.799206+00:00",
+  "count": 4,
   "videos": [
     {
       "base": "ELCARO_AltseasonBtcDip_2026-08-08",
@@ -31,21 +31,12 @@
       }
     },
     {
-      "base": "ELCARO_BtcBuyWindow_2026-08-07",
-      "caption": "BTC dips into buy window Aug 11 — alts still waiting on the BTC.D reversal 👀",
-      "duration_sec": 33.5,
+      "base": "ELCARO_XrpTripleClock_2026-08-08",
+      "caption": "XRP right now: three timeframes, three different stories.",
+      "duration_sec": 36.7,
       "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcBuyWindow_2026-08-07-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcBuyWindow_2026-08-07-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_XrpTripleClocks_2026-08-07",
-      "caption": "XRP just split across three timeframes — here's what each clock says.",
-      "duration_sec": 34.7,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTripleClocks_2026-08-07-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTripleClocks_2026-08-07-b.mp4"
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTripleClock_2026-08-08-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTripleClock_2026-08-08-b.mp4"
       }
     }
   ]
