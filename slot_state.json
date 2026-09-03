@@ -1,0 +1,22 @@
+{
+  "days": {
+    "2026-08-31": {
+      "0": "ELCARO_BtcRallyPulse_2026-08-30"
+    },
+    "2026-09-01": {},
+    "2026-09-02": {
+      "1": "ELCARO_PhaseZeroOne_2026-09-01",
+      "3": "ELCARO_TwoPhases_2026-09-02",
+      "4": "ELCARO_XrpTripleTurn_2026-09-02",
+      "5": "ELCARO_XrpThreeClocks_2026-09-02"
+    },
+    "2026-09-03": {
+      "0": "ELCARO_BtcRallyAltsWait_2026-09-02",
+      "1": "ELCARO_TwoStates_2026-09-02",
+      "2": "ELCARO_SolThreeClocks_2026-09-02",
+      "3": "ELCARO_XrpThreeClocks_2026-09-03",
+      "4": "ELCARO_BtcRallySellWindow_2026-09-03",
+      "5": "ELCARO_BtcDivergenceAlert_2026-09-03"
+    }
+  }
+}
