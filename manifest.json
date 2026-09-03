@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T18:12:01.972476+00:00",
-  "count": 9,
+  "generated_at": "2026-09-03T21:32:26.465664+00:00",
+  "count": 4,
   "videos": [
     {
       "base": "ELCARO_BtcDivergenceAlert_2026-09-03",
@@ -22,6 +22,15 @@
       }
     },
     {
+      "base": "ELCARO_PhaseZeroOne_2026-09-03",
+      "caption": "The market only ever has two states. Which phase are you in?",
+      "duration_sec": 37.4,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PhaseZeroOne_2026-09-03-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PhaseZeroOne_2026-09-03-b.mp4"
+      }
+    },
+    {
       "base": "ELCARO_XrpThreeClocks_2026-09-03",
       "caption": "XRP: 4H buy window open, 1D running to a top, 1W still cooling",
       "duration_sec": 38.2,
@@ -29,122 +38,13 @@
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-03-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-03-b.mp4"
       }
-    },
-    {
-      "base": "ELCARO_BtcRallyAltsWait_2026-09-02",
-      "caption": "BTC pulls the money — alts are still waiting.",
-      "duration_sec": 34.1,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallyAltsWait_2026-09-02-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallyAltsWait_2026-09-02-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_SolThreeClocks_2026-09-02",
-      "caption": "SOL: three timeframes, three different signals right now",
-      "duration_sec": 32.7,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-02-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-02-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_TwoPhases_2026-09-02",
-      "caption": "ELCARO 101: the market only ever has two phases.",
-      "duration_sec": 27.6,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_TwoPhases_2026-09-02-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_TwoPhases_2026-09-02-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_TwoStates_2026-09-02",
-      "caption": "The market only has two states. Know which one you're in.",
-      "duration_sec": 31.8,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_TwoStates_2026-09-02-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_TwoStates_2026-09-02-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_XrpThreeClocks_2026-09-02",
-      "caption": "XRP: three clocks turn this week — dates only, no promises. #XRP #ELCARO",
-      "duration_sec": 32.9,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-02-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-02-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_XrpTripleTurn_2026-09-02",
-      "caption": "XRP: three turns, ten days — dates only, no price targets.",
-      "duration_sec": 35.3,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTripleTurn_2026-09-02-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTripleTurn_2026-09-02-b.mp4"
-      }
     }
   ],
   "slots": {
     "2026-08-31": {},
     "2026-09-01": {},
-    "2026-09-02": {
-      "3": {
-        "base": "ELCARO_TwoPhases_2026-09-02",
-        "caption": "ELCARO 101: the market only ever has two phases.",
-        "duration_sec": 27.6,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_TwoPhases_2026-09-02-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_TwoPhases_2026-09-02-b.mp4"
-        }
-      },
-      "4": {
-        "base": "ELCARO_XrpTripleTurn_2026-09-02",
-        "caption": "XRP: three turns, ten days — dates only, no price targets.",
-        "duration_sec": 35.3,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTripleTurn_2026-09-02-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTripleTurn_2026-09-02-b.mp4"
-        }
-      },
-      "5": {
-        "base": "ELCARO_XrpThreeClocks_2026-09-02",
-        "caption": "XRP: three clocks turn this week — dates only, no promises. #XRP #ELCARO",
-        "duration_sec": 32.9,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-02-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-02-b.mp4"
-        }
-      }
-    },
+    "2026-09-02": {},
     "2026-09-03": {
-      "0": {
-        "base": "ELCARO_BtcRallyAltsWait_2026-09-02",
-        "caption": "BTC pulls the money — alts are still waiting.",
-        "duration_sec": 34.1,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallyAltsWait_2026-09-02-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallyAltsWait_2026-09-02-b.mp4"
-        }
-      },
-      "1": {
-        "base": "ELCARO_TwoStates_2026-09-02",
-        "caption": "The market only has two states. Know which one you're in.",
-        "duration_sec": 31.8,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_TwoStates_2026-09-02-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_TwoStates_2026-09-02-b.mp4"
-        }
-      },
-      "2": {
-        "base": "ELCARO_SolThreeClocks_2026-09-02",
-        "caption": "SOL: three timeframes, three different signals right now",
-        "duration_sec": 32.7,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-02-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-02-b.mp4"
-        }
-      },
       "3": {
         "base": "ELCARO_XrpThreeClocks_2026-09-03",
         "caption": "XRP: 4H buy window open, 1D running to a top, 1W still cooling",
