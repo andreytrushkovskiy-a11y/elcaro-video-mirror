@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T12:11:56.128225+00:00",
-  "count": 7,
+  "generated_at": "2026-09-04T15:02:34.518715+00:00",
+  "count": 8,
   "videos": [
     {
       "base": "ELCARO_BtcFlightToSafety_2026-09-04",
@@ -10,6 +10,15 @@
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_PositionSizing_2026-09-04",
+      "caption": "Position sizing 101: risk a fixed percent, let the stop set the size.",
+      "duration_sec": 30.0,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-b.mp4"
       }
     },
     {
@@ -134,6 +143,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-b.mp4"
+        }
+      },
+      "4": {
+        "base": "ELCARO_PositionSizing_2026-09-04",
+        "caption": "Position sizing 101: risk a fixed percent, let the stop set the size.",
+        "duration_sec": 30.0,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-b.mp4"
         }
       }
     }
