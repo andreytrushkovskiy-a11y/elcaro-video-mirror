@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T18:12:07.099078+00:00",
-  "count": 8,
+  "generated_at": "2026-09-04T21:31:48.942661+00:00",
+  "count": 9,
   "videos": [
     {
       "base": "ELCARO_BtcFlightToSafety_2026-09-04",
@@ -19,6 +19,15 @@
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_SolThreeClocks_2026-09-04",
+      "caption": "SOL: three timeframes, three turns — Sep 8 / 13 / 23",
+      "duration_sec": 31.3,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-b.mp4"
       }
     },
     {
