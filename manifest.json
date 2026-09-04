@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T21:32:26.465664+00:00",
-  "count": 4,
+  "generated_at": "2026-09-04T00:12:02.449304+00:00",
+  "count": 5,
   "videos": [
     {
       "base": "ELCARO_BtcDivergenceAlert_2026-09-03",
@@ -31,6 +31,15 @@
       }
     },
     {
+      "base": "ELCARO_SolThreeClocks_2026-09-03",
+      "caption": "SOL: three clocks, three turns — Sep 4 dip, Sep 13 top, Sep 23 reset.",
+      "duration_sec": 35.6,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-03-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-03-b.mp4"
+      }
+    },
+    {
       "base": "ELCARO_XrpThreeClocks_2026-09-03",
       "caption": "XRP: 4H buy window open, 1D running to a top, 1W still cooling",
       "duration_sec": 38.2,
@@ -41,7 +50,6 @@
     }
   ],
   "slots": {
-    "2026-08-31": {},
     "2026-09-01": {},
     "2026-09-02": {},
     "2026-09-03": {
@@ -70,6 +78,26 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcDivergenceAlert_2026-09-03-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcDivergenceAlert_2026-09-03-b.mp4"
+        }
+      }
+    },
+    "2026-09-04": {
+      "0": {
+        "base": "ELCARO_PhaseZeroOne_2026-09-03",
+        "caption": "The market only ever has two states. Which phase are you in?",
+        "duration_sec": 37.4,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PhaseZeroOne_2026-09-03-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PhaseZeroOne_2026-09-03-b.mp4"
+        }
+      },
+      "1": {
+        "base": "ELCARO_SolThreeClocks_2026-09-03",
+        "caption": "SOL: three clocks, three turns — Sep 4 dip, Sep 13 top, Sep 23 reset.",
+        "duration_sec": 35.6,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-03-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-03-b.mp4"
         }
       }
     }
