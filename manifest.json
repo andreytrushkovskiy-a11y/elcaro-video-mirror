@@ -1,8 +1,17 @@
 {
-  "date": "2026-09-03",
-  "generated_at": "2026-09-04T03:11:53.498625+00:00",
-  "count": 6,
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:11:56.128225+00:00",
+  "count": 7,
   "videos": [
+    {
+      "base": "ELCARO_BtcFlightToSafety_2026-09-04",
+      "caption": "BTC pulls flight-to-safety bids while multi-TF divergence flashes a warning under the rally 🔴",
+      "duration_sec": 29.8,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-b.mp4"
+      }
+    },
     {
       "base": "ELCARO_BtcDivergenceAlert_2026-09-03",
       "caption": "BTC still climbing — but daily AND weekly divergence just lined up. Next algo turn: Sep 23. 👀",
@@ -116,6 +125,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallyDivergence_2026-09-03-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallyDivergence_2026-09-03-b.mp4"
+        }
+      },
+      "3": {
+        "base": "ELCARO_BtcFlightToSafety_2026-09-04",
+        "caption": "BTC pulls flight-to-safety bids while multi-TF divergence flashes a warning under the rally 🔴",
+        "duration_sec": 29.8,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-b.mp4"
         }
       }
     }
