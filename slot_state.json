@@ -24,7 +24,8 @@
     "2026-09-05": {
       "0": "ELCARO_AltseasonPulse_2026-09-04",
       "1": "ELCARO_SolThreeClocks_2026-09-04",
-      "3": "ELCARO_PositionSizing_2026-09-05"
+      "3": "ELCARO_PositionSizing_2026-09-05",
+      "4": "ELCARO_SolThreeClocks_2026-09-05"
     }
   }
 }

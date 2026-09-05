@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05T12:11:29.840613+00:00",
-  "count": 5,
+  "generated_at": "2026-09-05T15:01:41.893571+00:00",
+  "count": 6,
   "videos": [
     {
       "base": "ELCARO_PositionSizing_2026-09-05",
@@ -10,6 +10,15 @@
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_SolThreeClocks_2026-09-05",
+      "caption": "SOL right now: 4h says buy soon, 1D says sell soon, 1W says buy later. Which clock do you trade?",
+      "duration_sec": 27.6,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-b.mp4"
       }
     },
     {
@@ -98,6 +107,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-b.mp4"
+        }
+      },
+      "4": {
+        "base": "ELCARO_SolThreeClocks_2026-09-05",
+        "caption": "SOL right now: 4h says buy soon, 1D says sell soon, 1W says buy later. Which clock do you trade?",
+        "duration_sec": 27.6,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-b.mp4"
         }
       }
     }
