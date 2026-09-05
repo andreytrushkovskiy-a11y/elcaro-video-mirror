@@ -1,6 +1,5 @@
 {
   "days": {
-    "2026-09-01": {},
     "2026-09-02": {
       "1": "ELCARO_PhaseZeroOne_2026-09-01",
       "3": "ELCARO_TwoPhases_2026-09-02",
@@ -21,6 +20,10 @@
       "2": "ELCARO_BtcRallyDivergence_2026-09-03",
       "3": "ELCARO_BtcFlightToSafety_2026-09-04",
       "4": "ELCARO_PositionSizing_2026-09-04"
+    },
+    "2026-09-05": {
+      "0": "ELCARO_AltseasonPulse_2026-09-04",
+      "1": "ELCARO_SolThreeClocks_2026-09-04"
     }
   }
 }

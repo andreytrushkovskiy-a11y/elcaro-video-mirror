@@ -1,8 +1,17 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T21:31:48.942661+00:00",
-  "count": 9,
+  "generated_at": "2026-09-05T00:11:48.757956+00:00",
+  "count": 4,
   "videos": [
+    {
+      "base": "ELCARO_AltseasonPulse_2026-09-04",
+      "caption": "ETH flashes bearish divergence on 4H+1D while BTC.D falls — altseason greed with a warning sign.",
+      "duration_sec": 34.9,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-04-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-04-b.mp4"
+      }
+    },
     {
       "base": "ELCARO_BtcFlightToSafety_2026-09-04",
       "caption": "BTC pulls flight-to-safety bids while multi-TF divergence flashes a warning under the rally 🔴",
@@ -29,122 +38,12 @@
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-b.mp4"
       }
-    },
-    {
-      "base": "ELCARO_BtcDivergenceAlert_2026-09-03",
-      "caption": "BTC still climbing — but daily AND weekly divergence just lined up. Next algo turn: Sep 23. 👀",
-      "duration_sec": 34.7,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcDivergenceAlert_2026-09-03-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcDivergenceAlert_2026-09-03-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_BtcRallyDivergence_2026-09-03",
-      "caption": "BTC rallying into the Sep 23 sell window — but bearish divergence is stacking on 4H/1D/1W. Alts still waiting on BTC.D to turn.",
-      "duration_sec": 32.7,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallyDivergence_2026-09-03-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallyDivergence_2026-09-03-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_BtcRallySellWindow_2026-09-03",
-      "caption": "BTC rally continues — but altcoins are waiting on BTC.D 🟡",
-      "duration_sec": 39.3,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallySellWindow_2026-09-03-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallySellWindow_2026-09-03-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_PhaseZeroOne_2026-09-03",
-      "caption": "The market only ever has two states. Which phase are you in?",
-      "duration_sec": 37.4,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PhaseZeroOne_2026-09-03-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PhaseZeroOne_2026-09-03-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_SolThreeClocks_2026-09-03",
-      "caption": "SOL: three clocks, three turns — Sep 4 dip, Sep 13 top, Sep 23 reset.",
-      "duration_sec": 35.6,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-03-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-03-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_XrpThreeClocks_2026-09-03",
-      "caption": "XRP: 4H buy window open, 1D running to a top, 1W still cooling",
-      "duration_sec": 38.2,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-03-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-03-b.mp4"
-      }
     }
   ],
   "slots": {
-    "2026-09-01": {},
     "2026-09-02": {},
-    "2026-09-03": {
-      "3": {
-        "base": "ELCARO_XrpThreeClocks_2026-09-03",
-        "caption": "XRP: 4H buy window open, 1D running to a top, 1W still cooling",
-        "duration_sec": 38.2,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-03-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-03-b.mp4"
-        }
-      },
-      "4": {
-        "base": "ELCARO_BtcRallySellWindow_2026-09-03",
-        "caption": "BTC rally continues — but altcoins are waiting on BTC.D 🟡",
-        "duration_sec": 39.3,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallySellWindow_2026-09-03-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallySellWindow_2026-09-03-b.mp4"
-        }
-      },
-      "5": {
-        "base": "ELCARO_BtcDivergenceAlert_2026-09-03",
-        "caption": "BTC still climbing — but daily AND weekly divergence just lined up. Next algo turn: Sep 23. 👀",
-        "duration_sec": 34.7,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcDivergenceAlert_2026-09-03-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcDivergenceAlert_2026-09-03-b.mp4"
-        }
-      }
-    },
+    "2026-09-03": {},
     "2026-09-04": {
-      "0": {
-        "base": "ELCARO_PhaseZeroOne_2026-09-03",
-        "caption": "The market only ever has two states. Which phase are you in?",
-        "duration_sec": 37.4,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PhaseZeroOne_2026-09-03-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PhaseZeroOne_2026-09-03-b.mp4"
-        }
-      },
-      "1": {
-        "base": "ELCARO_SolThreeClocks_2026-09-03",
-        "caption": "SOL: three clocks, three turns — Sep 4 dip, Sep 13 top, Sep 23 reset.",
-        "duration_sec": 35.6,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-03-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-03-b.mp4"
-        }
-      },
-      "2": {
-        "base": "ELCARO_BtcRallyDivergence_2026-09-03",
-        "caption": "BTC rallying into the Sep 23 sell window — but bearish divergence is stacking on 4H/1D/1W. Alts still waiting on BTC.D to turn.",
-        "duration_sec": 32.7,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallyDivergence_2026-09-03-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcRallyDivergence_2026-09-03-b.mp4"
-        }
-      },
       "3": {
         "base": "ELCARO_BtcFlightToSafety_2026-09-04",
         "caption": "BTC pulls flight-to-safety bids while multi-TF divergence flashes a warning under the rally 🔴",
@@ -161,6 +60,26 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-b.mp4"
+        }
+      }
+    },
+    "2026-09-05": {
+      "0": {
+        "base": "ELCARO_AltseasonPulse_2026-09-04",
+        "caption": "ETH flashes bearish divergence on 4H+1D while BTC.D falls — altseason greed with a warning sign.",
+        "duration_sec": 34.9,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-04-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-04-b.mp4"
+        }
+      },
+      "1": {
+        "base": "ELCARO_SolThreeClocks_2026-09-04",
+        "caption": "SOL: three timeframes, three turns — Sep 8 / 13 / 23",
+        "duration_sec": 31.3,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-b.mp4"
         }
       }
     }
