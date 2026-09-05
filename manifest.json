@@ -1,8 +1,17 @@
 {
-  "date": "2026-09-04",
-  "generated_at": "2026-09-05T03:11:17.519022+00:00",
-  "count": 4,
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T12:11:29.840613+00:00",
+  "count": 5,
   "videos": [
+    {
+      "base": "ELCARO_PositionSizing_2026-09-05",
+      "caption": "Position sizing 101: let the stop decide your size, not your gut.",
+      "duration_sec": 37.4,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-b.mp4"
+      }
+    },
     {
       "base": "ELCARO_AltseasonPulse_2026-09-04",
       "caption": "ETH flashes bearish divergence on 4H+1D while BTC.D falls — altseason greed with a warning sign.",
@@ -80,6 +89,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-b.mp4"
+        }
+      },
+      "3": {
+        "base": "ELCARO_PositionSizing_2026-09-05",
+        "caption": "Position sizing 101: let the stop decide your size, not your gut.",
+        "duration_sec": 37.4,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-b.mp4"
         }
       }
     }
