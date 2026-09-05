@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-05T00:11:48.757956+00:00",
+  "generated_at": "2026-09-05T03:11:17.519022+00:00",
   "count": 4,
   "videos": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "base": "ELCARO_PositionSizing_2026-09-04",
-      "caption": "Position sizing 101: risk a fixed %, let the stop set the size.",
+      "caption": "Risk first, size second — let the stop do the math.",
       "duration_sec": 30.0,
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-a.mp4",
@@ -55,7 +55,7 @@
       },
       "4": {
         "base": "ELCARO_PositionSizing_2026-09-04",
-        "caption": "Position sizing 101: risk a fixed %, let the stop set the size.",
+        "caption": "Risk first, size second — let the stop do the math.",
         "duration_sec": 30.0,
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-a.mp4",
