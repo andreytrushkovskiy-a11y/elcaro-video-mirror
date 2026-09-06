@@ -1,8 +1,17 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T12:11:45.851849+00:00",
-  "count": 5,
+  "generated_at": "2026-09-06T15:02:37.879865+00:00",
+  "count": 6,
   "videos": [
+    {
+      "base": "ELCARO_BtcLongPulse_2026-09-06",
+      "caption": "BTC flips LONG — next sell window Sep 21, buy window right behind it Nov 10.",
+      "duration_sec": 39.6,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcLongPulse_2026-09-06-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcLongPulse_2026-09-06-b.mp4"
+      }
+    },
     {
       "base": "ELCARO_SolThreeClocks_2026-09-06",
       "caption": "SOL keeps climbing — three timeframes, one verdict: up until the turn.",
@@ -98,6 +107,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-06-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-06-b.mp4"
+        }
+      },
+      "4": {
+        "base": "ELCARO_BtcLongPulse_2026-09-06",
+        "caption": "BTC flips LONG — next sell window Sep 21, buy window right behind it Nov 10.",
+        "duration_sec": 39.6,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcLongPulse_2026-09-06-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcLongPulse_2026-09-06-b.mp4"
         }
       }
     }
