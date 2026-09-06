@@ -23,7 +23,8 @@
     },
     "2026-09-06": {
       "0": "ELCARO_GreedFlipSellWindow_2026-09-05",
-      "1": "ELCARO_EthDivergence_2026-09-05"
+      "1": "ELCARO_EthDivergence_2026-09-05",
+      "3": "ELCARO_SolThreeClocks_2026-09-06"
     }
   }
 }
