@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T18:11:52.988084+00:00",
-  "count": 7,
+  "generated_at": "2026-09-06T21:31:43.015401+00:00",
+  "count": 4,
   "videos": [
     {
       "base": "ELCARO_BtcLongPulse_2026-09-06",
@@ -10,6 +10,15 @@
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcLongPulse_2026-09-06-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcLongPulse_2026-09-06-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_PositionSizing_2026-09-06",
+      "caption": "Risk a fixed percent. Let the stop decide your size.",
+      "duration_sec": 32.2,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-06-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-06-b.mp4"
       }
     },
     {
@@ -29,86 +38,13 @@
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_VolPulseSep6_2026-09-06-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_VolPulseSep6_2026-09-06-b.mp4"
       }
-    },
-    {
-      "base": "ELCARO_EthDivergence_2026-09-05",
-      "caption": "ETH: the 4H and 1D are rising into sell windows Sep 6 and Sep 10 — but the Weekly is still falling toward a Sep 27 buy. This is ELCARO.",
-      "duration_sec": 34.7,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthDivergence_2026-09-05-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthDivergence_2026-09-05-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_GreedFlipSellWindow_2026-09-05",
-      "caption": "Fear flipped to Greed in a month — BTC's sell window is 17 days out ⚡",
-      "duration_sec": 33.1,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFlipSellWindow_2026-09-05-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFlipSellWindow_2026-09-05-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_PositionSizing_2026-09-05",
-      "caption": "Risk a fixed %. Let the stop decide your size.",
-      "duration_sec": 37.4,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_SolThreeClocks_2026-09-05",
-      "caption": "SOL right now: three timeframes, three different answers.",
-      "duration_sec": 27.6,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-b.mp4"
-      }
     }
   ],
   "slots": {
     "2026-09-03": {},
     "2026-09-04": {},
-    "2026-09-05": {
-      "3": {
-        "base": "ELCARO_PositionSizing_2026-09-05",
-        "caption": "Risk a fixed %. Let the stop decide your size.",
-        "duration_sec": 37.4,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-b.mp4"
-        }
-      },
-      "4": {
-        "base": "ELCARO_SolThreeClocks_2026-09-05",
-        "caption": "SOL right now: three timeframes, three different answers.",
-        "duration_sec": 27.6,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-b.mp4"
-        }
-      }
-    },
+    "2026-09-05": {},
     "2026-09-06": {
-      "0": {
-        "base": "ELCARO_GreedFlipSellWindow_2026-09-05",
-        "caption": "Fear flipped to Greed in a month — BTC's sell window is 17 days out ⚡",
-        "duration_sec": 33.1,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFlipSellWindow_2026-09-05-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFlipSellWindow_2026-09-05-b.mp4"
-        }
-      },
-      "1": {
-        "base": "ELCARO_EthDivergence_2026-09-05",
-        "caption": "ETH: the 4H and 1D are rising into sell windows Sep 6 and Sep 10 — but the Weekly is still falling toward a Sep 27 buy. This is ELCARO.",
-        "duration_sec": 34.7,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthDivergence_2026-09-05-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthDivergence_2026-09-05-b.mp4"
-        }
-      },
       "3": {
         "base": "ELCARO_SolThreeClocks_2026-09-06",
         "caption": "SOL keeps climbing — three timeframes, one verdict: up until the turn.",
