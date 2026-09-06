@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T15:02:37.879865+00:00",
-  "count": 6,
+  "generated_at": "2026-09-06T18:11:52.988084+00:00",
+  "count": 7,
   "videos": [
     {
       "base": "ELCARO_BtcLongPulse_2026-09-06",
@@ -19,6 +19,15 @@
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-06-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-06-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_VolPulseSep6_2026-09-06",
+      "caption": "⚡ Volatility rising — BTC flips bearish, ETH holds bullish. FGI 73 Greed. Wait for confirmation.",
+      "duration_sec": 33.6,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_VolPulseSep6_2026-09-06-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_VolPulseSep6_2026-09-06-b.mp4"
       }
     },
     {
@@ -116,6 +125,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcLongPulse_2026-09-06-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcLongPulse_2026-09-06-b.mp4"
+        }
+      },
+      "5": {
+        "base": "ELCARO_VolPulseSep6_2026-09-06",
+        "caption": "⚡ Volatility rising — BTC flips bearish, ETH holds bullish. FGI 73 Greed. Wait for confirmation.",
+        "duration_sec": 33.6,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_VolPulseSep6_2026-09-06-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_VolPulseSep6_2026-09-06-b.mp4"
         }
       }
     }
