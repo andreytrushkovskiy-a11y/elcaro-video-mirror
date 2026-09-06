@@ -1,8 +1,17 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-06T00:11:48.182331+00:00",
-  "count": 7,
+  "generated_at": "2026-09-06T03:11:26.956166+00:00",
+  "count": 4,
   "videos": [
+    {
+      "base": "ELCARO_EthDivergence_2026-09-05",
+      "caption": "ETH: the 4H and 1D are rising into sell windows Sep 6 and Sep 10 — but the Weekly is still falling toward a Sep 27 buy. This is ELCARO.",
+      "duration_sec": 34.7,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthDivergence_2026-09-05-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthDivergence_2026-09-05-b.mp4"
+      }
+    },
     {
       "base": "ELCARO_GreedFlipSellWindow_2026-09-05",
       "caption": "Fear flipped to Greed in a month — BTC's sell window is 17 days out ⚡",
@@ -29,85 +38,12 @@
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-b.mp4"
       }
-    },
-    {
-      "base": "ELCARO_AltseasonPulse_2026-09-04",
-      "caption": "ETH flashes bearish divergence on 4H+1D while BTC.D falls — altseason greed with a warning sign.",
-      "duration_sec": 34.9,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-04-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-04-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_BtcFlightToSafety_2026-09-04",
-      "caption": "BTC pulls flight-to-safety bids while multi-TF divergence flashes a warning under the rally 🔴",
-      "duration_sec": 29.8,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_PositionSizing_2026-09-04",
-      "caption": "Risk first, size second — let the stop do the math.",
-      "duration_sec": 30.0,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_SolThreeClocks_2026-09-04",
-      "caption": "SOL: three timeframes, three turns — Sep 8 / 13 / 23",
-      "duration_sec": 31.3,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-b.mp4"
-      }
     }
   ],
   "slots": {
     "2026-09-03": {},
-    "2026-09-04": {
-      "3": {
-        "base": "ELCARO_BtcFlightToSafety_2026-09-04",
-        "caption": "BTC pulls flight-to-safety bids while multi-TF divergence flashes a warning under the rally 🔴",
-        "duration_sec": 29.8,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcFlightToSafety_2026-09-04-b.mp4"
-        }
-      },
-      "4": {
-        "base": "ELCARO_PositionSizing_2026-09-04",
-        "caption": "Risk first, size second — let the stop do the math.",
-        "duration_sec": 30.0,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-04-b.mp4"
-        }
-      }
-    },
+    "2026-09-04": {},
     "2026-09-05": {
-      "0": {
-        "base": "ELCARO_AltseasonPulse_2026-09-04",
-        "caption": "ETH flashes bearish divergence on 4H+1D while BTC.D falls — altseason greed with a warning sign.",
-        "duration_sec": 34.9,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-04-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-04-b.mp4"
-        }
-      },
-      "1": {
-        "base": "ELCARO_SolThreeClocks_2026-09-04",
-        "caption": "SOL: three timeframes, three turns — Sep 8 / 13 / 23",
-        "duration_sec": 31.3,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-04-b.mp4"
-        }
-      },
       "3": {
         "base": "ELCARO_PositionSizing_2026-09-05",
         "caption": "Risk a fixed %. Let the stop decide your size.",
@@ -135,6 +71,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFlipSellWindow_2026-09-05-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFlipSellWindow_2026-09-05-b.mp4"
+        }
+      },
+      "1": {
+        "base": "ELCARO_EthDivergence_2026-09-05",
+        "caption": "ETH: the 4H and 1D are rising into sell windows Sep 6 and Sep 10 — but the Weekly is still falling toward a Sep 27 buy. This is ELCARO.",
+        "duration_sec": 34.7,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthDivergence_2026-09-05-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthDivergence_2026-09-05-b.mp4"
         }
       }
     }
