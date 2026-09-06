@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05T21:32:10.157989+00:00",
+  "generated_at": "2026-09-06T00:11:48.182331+00:00",
   "count": 7,
   "videos": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "base": "ELCARO_PositionSizing_2026-09-05",
-      "caption": "Position sizing 101: let the stop decide your size, not your gut.",
+      "caption": "Risk a fixed %. Let the stop decide your size.",
       "duration_sec": 37.4,
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-a.mp4",
@@ -68,7 +68,6 @@
     }
   ],
   "slots": {
-    "2026-09-02": {},
     "2026-09-03": {},
     "2026-09-04": {
       "3": {
@@ -111,7 +110,7 @@
       },
       "3": {
         "base": "ELCARO_PositionSizing_2026-09-05",
-        "caption": "Position sizing 101: let the stop decide your size, not your gut.",
+        "caption": "Risk a fixed %. Let the stop decide your size.",
         "duration_sec": 37.4,
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-05-a.mp4",
@@ -125,6 +124,17 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-05-b.mp4"
+        }
+      }
+    },
+    "2026-09-06": {
+      "0": {
+        "base": "ELCARO_GreedFlipSellWindow_2026-09-05",
+        "caption": "Fear flipped to Greed in a month — BTC's sell window is 17 days out ⚡",
+        "duration_sec": 33.1,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFlipSellWindow_2026-09-05-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFlipSellWindow_2026-09-05-b.mp4"
         }
       }
     }

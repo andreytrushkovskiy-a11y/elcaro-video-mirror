@@ -1,11 +1,5 @@
 {
   "days": {
-    "2026-09-02": {
-      "1": "ELCARO_PhaseZeroOne_2026-09-01",
-      "3": "ELCARO_TwoPhases_2026-09-02",
-      "4": "ELCARO_XrpTripleTurn_2026-09-02",
-      "5": "ELCARO_XrpThreeClocks_2026-09-02"
-    },
     "2026-09-03": {
       "0": "ELCARO_BtcRallyAltsWait_2026-09-02",
       "1": "ELCARO_TwoStates_2026-09-02",
@@ -26,6 +20,9 @@
       "1": "ELCARO_SolThreeClocks_2026-09-04",
       "3": "ELCARO_PositionSizing_2026-09-05",
       "4": "ELCARO_SolThreeClocks_2026-09-05"
+    },
+    "2026-09-06": {
+      "0": "ELCARO_GreedFlipSellWindow_2026-09-05"
     }
   }
 }
