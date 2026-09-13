@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-13T00:11:59.819187+00:00",
+  "count": 5,
+  "videos": [
+    {
+      "base": "ELCARO_AltseasonRotation_2026-09-12",
+      "caption": "BTC dominance is breaking down — altseason rotation is live 🟢",
+      "duration_sec": 34.5,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonRotation_2026-09-12-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonRotation_2026-09-12-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_BtcSellWindow_2026-09-12",
+      "caption": "Risk-on: BTC climbing into Sep 24, next buy Nov 11 🟢",
+      "duration_sec": 33.7,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-12-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-12-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_BtcTurnWatch_2026-09-12",
+      "caption": "BTC: two sell windows ahead this month, weekly eyes a buy in December",
+      "duration_sec": 31.9,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcTurnWatch_2026-09-12-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcTurnWatch_2026-09-12-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_FundingRatesCrowd_2026-09-12",
+      "caption": "Funding rates whisper what price hasn't shown yet.",
+      "duration_sec": 35.1,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FundingRatesCrowd_2026-09-12-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FundingRatesCrowd_2026-09-12-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_XrpThreeClocks_2026-09-12",
+      "caption": "XRP: 4H, 1D and 1W disagree — here's the map",
+      "duration_sec": 35.5,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-12-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-12-b.mp4"
+      }
+    }
+  ],
+  "slots": {
+    "2026-09-10": {},
+    "2026-09-11": {},
+    "2026-09-12": {
+      "3": {
+        "base": "ELCARO_BtcTurnWatch_2026-09-12",
+        "caption": "BTC: two sell windows ahead this month, weekly eyes a buy in December",
+        "duration_sec": 31.9,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcTurnWatch_2026-09-12-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcTurnWatch_2026-09-12-b.mp4"
+        }
+      },
+      "4": {
+        "base": "ELCARO_AltseasonRotation_2026-09-12",
+        "caption": "BTC dominance is breaking down — altseason rotation is live 🟢",
+        "duration_sec": 34.5,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonRotation_2026-09-12-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonRotation_2026-09-12-b.mp4"
+        }
+      },
+      "5": {
+        "base": "ELCARO_BtcSellWindow_2026-09-12",
+        "caption": "Risk-on: BTC climbing into Sep 24, next buy Nov 11 🟢",
+        "duration_sec": 33.7,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-12-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-12-b.mp4"
+        }
+      }
+    },
+    "2026-09-13": {
+      "0": {
+        "base": "ELCARO_FundingRatesCrowd_2026-09-12",
+        "caption": "Funding rates whisper what price hasn't shown yet.",
+        "duration_sec": 35.1,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FundingRatesCrowd_2026-09-12-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FundingRatesCrowd_2026-09-12-b.mp4"
+        }
+      },
+      "1": {
+        "base": "ELCARO_XrpThreeClocks_2026-09-12",
+        "caption": "XRP: 4H, 1D and 1W disagree — here's the map",
+        "duration_sec": 35.5,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-12-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-12-b.mp4"
+        }
+      }
+    }
+  }
+}

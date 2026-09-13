@@ -1,0 +1,32 @@
+{
+  "days": {
+    "2026-09-10": {
+      "0": "ELCARO_BtcTwinTops_2026-09-09",
+      "1": "ELCARO_FearGreedContrarian_2026-09-09",
+      "2": "ELCARO_BtcSellWindow_2026-09-09",
+      "3": "ELCARO_BtcCrashFlight_2026-09-10",
+      "4": "ELCARO_FundingCrowd_2026-09-10",
+      "5": "ELCARO_FundingRateCrowd_2026-09-10"
+    },
+    "2026-09-11": {
+      "0": "ELCARO_BtcSplitClocks_2026-09-10",
+      "1": "ELCARO_FlightToSafety_2026-09-10",
+      "2": "ELCARO_FundingCrowdToll_2026-09-10",
+      "3": "ELCARO_FundingRateTrap_2026-09-11",
+      "4": "ELCARO_BtcThreeClocks_2026-09-11",
+      "5": "ELCARO_BtcTripleClock_2026-09-11"
+    },
+    "2026-09-12": {
+      "0": "ELCARO_AltseasonPulse_2026-09-11",
+      "1": "ELCARO_FundingRates_2026-09-11",
+      "2": "ELCARO_XrpThreeClocks_2026-09-11",
+      "3": "ELCARO_BtcTurnWatch_2026-09-12",
+      "4": "ELCARO_AltseasonRotation_2026-09-12",
+      "5": "ELCARO_BtcSellWindow_2026-09-12"
+    },
+    "2026-09-13": {
+      "0": "ELCARO_FundingRatesCrowd_2026-09-12",
+      "1": "ELCARO_XrpThreeClocks_2026-09-12"
+    }
+  }
+}
