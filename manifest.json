@@ -1,8 +1,17 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T12:12:00.706544+00:00",
-  "count": 6,
+  "generated_at": "2026-09-15T15:03:42.259491+00:00",
+  "count": 7,
   "videos": [
+    {
+      "base": "ELCARO_FullExitBtc_2026-09-15",
+      "caption": "⛔ FULL EXIT: capital fleeing crypto, but BTC still climbs to its Sep 20 sell window.",
+      "duration_sec": 38.8,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitBtc_2026-09-15-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitBtc_2026-09-15-b.mp4"
+      }
+    },
     {
       "base": "ELCARO_XrpTimeframeSplit_2026-09-15",
       "caption": "XRP is telling three different stories right now 👀",
@@ -116,6 +125,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTimeframeSplit_2026-09-15-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTimeframeSplit_2026-09-15-b.mp4"
+        }
+      },
+      "4": {
+        "base": "ELCARO_FullExitBtc_2026-09-15",
+        "caption": "⛔ FULL EXIT: capital fleeing crypto, but BTC still climbs to its Sep 20 sell window.",
+        "duration_sec": 38.8,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitBtc_2026-09-15-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitBtc_2026-09-15-b.mp4"
         }
       }
     }
