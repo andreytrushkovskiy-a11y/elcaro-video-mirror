@@ -1,8 +1,17 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T18:12:32.193468+00:00",
-  "count": 8,
+  "generated_at": "2026-09-15T21:32:04.546663+00:00",
+  "count": 4,
   "videos": [
+    {
+      "base": "ELCARO_DatesNotTargets_2026-09-15",
+      "caption": "ELCARO forecasts WHEN, never WHERE.",
+      "duration_sec": 28.4,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_DatesNotTargets_2026-09-15-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_DatesNotTargets_2026-09-15-b.mp4"
+      }
+    },
     {
       "base": "ELCARO_FullExitBtc_2026-09-15",
       "caption": "⛔ FULL EXIT: capital fleeing crypto, but BTC still climbs to its Sep 20 sell window.",
@@ -29,104 +38,13 @@
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTimeframeSplit_2026-09-15-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpTimeframeSplit_2026-09-15-b.mp4"
       }
-    },
-    {
-      "base": "ELCARO_BtcSellWindow_2026-09-14",
-      "caption": "BTC pulling all the flow — model forecasts a sell window on September 20. Altcoins wait on BTC.D.",
-      "duration_sec": 37.3,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-14-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-14-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_DatesNotPrices_2026-09-14",
-      "caption": "Why ELCARO never gives you a price target.",
-      "duration_sec": 33.4,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_DatesNotPrices_2026-09-14-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_DatesNotPrices_2026-09-14-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_SolForecastSep_2026-09-14",
-      "caption": "SOL forecast: 4h tops out, daily floor Oct 19, weekly stays long into 2028.",
-      "duration_sec": 35.2,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolForecastSep_2026-09-14-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolForecastSep_2026-09-14-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_XrpForecast_2026-09-14",
-      "caption": "XRP splits across timeframes — sell Sep 17, buy Oct 12, next sell Nov 15.",
-      "duration_sec": 33.4,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpForecast_2026-09-14-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpForecast_2026-09-14-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_XrpThreeClocks_2026-09-14",
-      "caption": "XRP: 4H says top, 1D says bottom, 1W still climbing.",
-      "duration_sec": 32.5,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-14-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-14-b.mp4"
-      }
     }
   ],
   "slots": {
     "2026-09-12": {},
     "2026-09-13": {},
-    "2026-09-14": {
-      "3": {
-        "base": "ELCARO_DatesNotPrices_2026-09-14",
-        "caption": "Why ELCARO never gives you a price target.",
-        "duration_sec": 33.4,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_DatesNotPrices_2026-09-14-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_DatesNotPrices_2026-09-14-b.mp4"
-        }
-      },
-      "4": {
-        "base": "ELCARO_XrpForecast_2026-09-14",
-        "caption": "XRP splits across timeframes — sell Sep 17, buy Oct 12, next sell Nov 15.",
-        "duration_sec": 33.4,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpForecast_2026-09-14-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpForecast_2026-09-14-b.mp4"
-        }
-      },
-      "5": {
-        "base": "ELCARO_XrpThreeClocks_2026-09-14",
-        "caption": "XRP: 4H says top, 1D says bottom, 1W still climbing.",
-        "duration_sec": 32.5,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-14-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_XrpThreeClocks_2026-09-14-b.mp4"
-        }
-      }
-    },
+    "2026-09-14": {},
     "2026-09-15": {
-      "0": {
-        "base": "ELCARO_BtcSellWindow_2026-09-14",
-        "caption": "BTC pulling all the flow — model forecasts a sell window on September 20. Altcoins wait on BTC.D.",
-        "duration_sec": 37.3,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-14-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-14-b.mp4"
-        }
-      },
-      "1": {
-        "base": "ELCARO_SolForecastSep_2026-09-14",
-        "caption": "SOL forecast: 4h tops out, daily floor Oct 19, weekly stays long into 2028.",
-        "duration_sec": 35.2,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolForecastSep_2026-09-14-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolForecastSep_2026-09-14-b.mp4"
-        }
-      },
       "3": {
         "base": "ELCARO_XrpTimeframeSplit_2026-09-15",
         "caption": "XRP is telling three different stories right now 👀",
