@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T15:03:42.259491+00:00",
-  "count": 7,
+  "generated_at": "2026-09-15T18:12:32.193468+00:00",
+  "count": 8,
   "videos": [
     {
       "base": "ELCARO_FullExitBtc_2026-09-15",
@@ -10,6 +10,15 @@
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitBtc_2026-09-15-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitBtc_2026-09-15-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_FullExitVsGreed_2026-09-15",
+      "caption": "Greed hit 69. ELCARO says get out. ⛔ $BTC",
+      "duration_sec": 36.9,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitVsGreed_2026-09-15-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitVsGreed_2026-09-15-b.mp4"
       }
     },
     {
@@ -134,6 +143,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitBtc_2026-09-15-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitBtc_2026-09-15-b.mp4"
+        }
+      },
+      "5": {
+        "base": "ELCARO_FullExitVsGreed_2026-09-15",
+        "caption": "Greed hit 69. ELCARO says get out. ⛔ $BTC",
+        "duration_sec": 36.9,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitVsGreed_2026-09-15-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitVsGreed_2026-09-15-b.mp4"
         }
       }
     }

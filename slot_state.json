@@ -27,7 +27,8 @@
       "0": "ELCARO_BtcSellWindow_2026-09-14",
       "1": "ELCARO_SolForecastSep_2026-09-14",
       "3": "ELCARO_XrpTimeframeSplit_2026-09-15",
-      "4": "ELCARO_FullExitBtc_2026-09-15"
+      "4": "ELCARO_FullExitBtc_2026-09-15",
+      "5": "ELCARO_FullExitVsGreed_2026-09-15"
     }
   }
 }
