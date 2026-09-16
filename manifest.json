@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T21:32:04.546663+00:00",
-  "count": 4,
+  "generated_at": "2026-09-16T00:12:04.917250+00:00",
+  "count": 5,
   "videos": [
     {
       "base": "ELCARO_DatesNotTargets_2026-09-15",
@@ -31,6 +31,15 @@
       }
     },
     {
+      "base": "ELCARO_SolThreeClocks_2026-09-15",
+      "caption": "SOL: two clocks say short, the weekly says long. Watch Sep 23 & Oct 19.",
+      "duration_sec": 35.5,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-15-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-15-b.mp4"
+      }
+    },
+    {
       "base": "ELCARO_XrpTimeframeSplit_2026-09-15",
       "caption": "XRP is telling three different stories right now 👀",
       "duration_sec": 31.7,
@@ -41,7 +50,6 @@
     }
   ],
   "slots": {
-    "2026-09-12": {},
     "2026-09-13": {},
     "2026-09-14": {},
     "2026-09-15": {
@@ -70,6 +78,26 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitVsGreed_2026-09-15-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExitVsGreed_2026-09-15-b.mp4"
+        }
+      }
+    },
+    "2026-09-16": {
+      "0": {
+        "base": "ELCARO_DatesNotTargets_2026-09-15",
+        "caption": "ELCARO forecasts WHEN, never WHERE.",
+        "duration_sec": 28.4,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_DatesNotTargets_2026-09-15-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_DatesNotTargets_2026-09-15-b.mp4"
+        }
+      },
+      "1": {
+        "base": "ELCARO_SolThreeClocks_2026-09-15",
+        "caption": "SOL: two clocks say short, the weekly says long. Watch Sep 23 & Oct 19.",
+        "duration_sec": 35.5,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-15-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-15-b.mp4"
         }
       }
     }
