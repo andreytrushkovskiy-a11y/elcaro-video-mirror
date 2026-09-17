@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T15:02:02.187894+00:00",
+  "count": 7,
+  "videos": [
+    {
+      "base": "ELCARO_SigmaCorridor_2026-09-17",
+      "caption": "Where price actually stays — the 68/95 sigma corridor.",
+      "duration_sec": 31.1,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_SolTwoClocks_2026-09-17",
+      "caption": "SOL: two clocks, one chart",
+      "duration_sec": 35.3,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolTwoClocks_2026-09-17-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolTwoClocks_2026-09-17-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_BtcSellWindow_2026-09-16",
+      "caption": "BTC's long into Sept 20 — next sell window incoming.",
+      "duration_sec": 31.8,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-16-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-16-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_FullExit_2026-09-16",
+      "caption": "⛔ Regime flip: FULL EXIT — capital leaving crypto, stay in stables",
+      "duration_sec": 34.6,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExit_2026-09-16-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExit_2026-09-16-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_SigmaCorridorExplained_2026-09-16",
+      "caption": "Why price usually stays inside the sigma corridor (68% vs 95%) — ELCARO explains.",
+      "duration_sec": 37.6,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridorExplained_2026-09-16-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridorExplained_2026-09-16-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_SigmaCorridor_2026-09-16",
+      "caption": "Where price actually lives: 1σ vs 2σ.",
+      "duration_sec": 36.7,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-16-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-16-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_SolThreeClocks_2026-09-16",
+      "caption": "SOL: three timeframes, three signals — first turn Sep 23",
+      "duration_sec": 31.6,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-16-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-16-b.mp4"
+      }
+    }
+  ],
+  "slots": {
+    "2026-09-14": {},
+    "2026-09-15": {},
+    "2026-09-16": {
+      "3": {
+        "base": "ELCARO_BtcSellWindow_2026-09-16",
+        "caption": "BTC's long into Sept 20 — next sell window incoming.",
+        "duration_sec": 31.8,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-16-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-16-b.mp4"
+        }
+      },
+      "4": {
+        "base": "ELCARO_SigmaCorridor_2026-09-16",
+        "caption": "Where price actually lives: 1σ vs 2σ.",
+        "duration_sec": 36.7,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-16-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-16-b.mp4"
+        }
+      }
+    },
+    "2026-09-17": {
+      "0": {
+        "base": "ELCARO_FullExit_2026-09-16",
+        "caption": "⛔ Regime flip: FULL EXIT — capital leaving crypto, stay in stables",
+        "duration_sec": 34.6,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExit_2026-09-16-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_FullExit_2026-09-16-b.mp4"
+        }
+      },
+      "1": {
+        "base": "ELCARO_SolThreeClocks_2026-09-16",
+        "caption": "SOL: three timeframes, three signals — first turn Sep 23",
+        "duration_sec": 31.6,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-16-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-16-b.mp4"
+        }
+      },
+      "2": {
+        "base": "ELCARO_SigmaCorridorExplained_2026-09-16",
+        "caption": "Why price usually stays inside the sigma corridor (68% vs 95%) — ELCARO explains.",
+        "duration_sec": 37.6,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridorExplained_2026-09-16-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridorExplained_2026-09-16-b.mp4"
+        }
+      },
+      "3": {
+        "base": "ELCARO_SigmaCorridor_2026-09-17",
+        "caption": "Where price actually stays — the 68/95 sigma corridor.",
+        "duration_sec": 31.1,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-b.mp4"
+        }
+      },
+      "4": {
+        "base": "ELCARO_SolTwoClocks_2026-09-17",
+        "caption": "SOL: two clocks, one chart",
+        "duration_sec": 35.3,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolTwoClocks_2026-09-17-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolTwoClocks_2026-09-17-b.mp4"
+        }
+      }
+    }
+  }
+}

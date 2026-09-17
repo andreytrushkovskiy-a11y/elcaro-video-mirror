@@ -1,0 +1,32 @@
+{
+  "days": {
+    "2026-09-14": {
+      "0": "ELCARO_VolPulseSep13_2026-09-13",
+      "1": "ELCARO_XrpThreeClocks_2026-09-13",
+      "3": "ELCARO_DatesNotPrices_2026-09-14",
+      "4": "ELCARO_XrpForecast_2026-09-14",
+      "5": "ELCARO_XrpThreeClocks_2026-09-14"
+    },
+    "2026-09-15": {
+      "0": "ELCARO_BtcSellWindow_2026-09-14",
+      "1": "ELCARO_SolForecastSep_2026-09-14",
+      "3": "ELCARO_XrpTimeframeSplit_2026-09-15",
+      "4": "ELCARO_FullExitBtc_2026-09-15",
+      "5": "ELCARO_FullExitVsGreed_2026-09-15"
+    },
+    "2026-09-16": {
+      "0": "ELCARO_DatesNotTargets_2026-09-15",
+      "1": "ELCARO_SolThreeClocks_2026-09-15",
+      "2": "ELCARO_FullExitPulse_2026-09-15",
+      "3": "ELCARO_BtcSellWindow_2026-09-16",
+      "4": "ELCARO_SigmaCorridor_2026-09-16"
+    },
+    "2026-09-17": {
+      "0": "ELCARO_FullExit_2026-09-16",
+      "1": "ELCARO_SolThreeClocks_2026-09-16",
+      "2": "ELCARO_SigmaCorridorExplained_2026-09-16",
+      "3": "ELCARO_SigmaCorridor_2026-09-17",
+      "4": "ELCARO_SolTwoClocks_2026-09-17"
+    }
+  }
+}
