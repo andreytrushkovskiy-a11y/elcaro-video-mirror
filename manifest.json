@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T15:02:02.187894+00:00",
-  "count": 7,
+  "generated_at": "2026-09-17T18:11:40.468541+00:00",
+  "count": 8,
   "videos": [
     {
       "base": "ELCARO_SigmaCorridor_2026-09-17",
@@ -10,6 +10,15 @@
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_SolThreeClocks_2026-09-17",
+      "caption": "SOL: three timeframes, three different clocks",
+      "duration_sec": 31.6,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-17-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-17-b.mp4"
       }
     },
     {
@@ -134,6 +143,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolTwoClocks_2026-09-17-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolTwoClocks_2026-09-17-b.mp4"
+        }
+      },
+      "5": {
+        "base": "ELCARO_SolThreeClocks_2026-09-17",
+        "caption": "SOL: three timeframes, three different clocks",
+        "duration_sec": 31.6,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-17-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-17-b.mp4"
         }
       }
     }
