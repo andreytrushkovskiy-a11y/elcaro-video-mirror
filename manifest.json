@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T21:33:29.589411+00:00",
+  "generated_at": "2026-09-18T00:11:54.845018+00:00",
   "count": 4,
   "videos": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "base": "ELCARO_SigmaCorridor_2026-09-17",
-      "caption": "Where price actually stays — the 68/95 sigma corridor.",
+      "caption": "Why price stays inside its own sigma corridor — 68% vs 95%.",
       "duration_sec": 31.1,
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-a.mp4",
@@ -41,13 +41,12 @@
     }
   ],
   "slots": {
-    "2026-09-14": {},
     "2026-09-15": {},
     "2026-09-16": {},
     "2026-09-17": {
       "3": {
         "base": "ELCARO_SigmaCorridor_2026-09-17",
-        "caption": "Where price actually stays — the 68/95 sigma corridor.",
+        "caption": "Why price stays inside its own sigma corridor — 68% vs 95%.",
         "duration_sec": 31.1,
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-a.mp4",
@@ -70,6 +69,17 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-17-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-17-b.mp4"
+        }
+      }
+    },
+    "2026-09-18": {
+      "0": {
+        "base": "ELCARO_BtcSellWindow_2026-09-17",
+        "caption": "BTC LONG rides into a Sep 18 sell window as altseason drains the stables 🟢",
+        "duration_sec": 37.2,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-17-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-17-b.mp4"
         }
       }
     }
