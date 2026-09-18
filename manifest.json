@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-18T00:11:54.845018+00:00",
-  "count": 4,
+  "generated_at": "2026-09-18T03:11:57.172100+00:00",
+  "count": 5,
   "videos": [
     {
       "base": "ELCARO_BtcSellWindow_2026-09-17",
@@ -10,6 +10,15 @@
       "variants": {
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-17-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-17-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_EthTripleShort_2026-09-17",
+      "caption": "ETH bends down on 4H, 1D and 1W — buy windows lining up.",
+      "duration_sec": 31.9,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthTripleShort_2026-09-17-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthTripleShort_2026-09-17-b.mp4"
       }
     },
     {
@@ -80,6 +89,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-17-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-17-b.mp4"
+        }
+      },
+      "1": {
+        "base": "ELCARO_EthTripleShort_2026-09-17",
+        "caption": "ETH bends down on 4H, 1D and 1W — buy windows lining up.",
+        "duration_sec": 31.9,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthTripleShort_2026-09-17-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthTripleShort_2026-09-17-b.mp4"
         }
       }
     }
