@@ -25,7 +25,8 @@
     "2026-09-18": {
       "0": "ELCARO_BtcSellWindow_2026-09-17",
       "1": "ELCARO_EthTripleShort_2026-09-17",
-      "3": "ELCARO_SolThreeClocks_2026-09-18"
+      "3": "ELCARO_SolThreeClocks_2026-09-18",
+      "4": "ELCARO_BtcSellWindow_2026-09-18"
     }
   }
 }

@@ -1,8 +1,17 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T12:12:35.088914+00:00",
-  "count": 6,
+  "generated_at": "2026-09-18T15:03:32.691891+00:00",
+  "count": 7,
   "videos": [
+    {
+      "base": "ELCARO_BtcSellWindow_2026-09-18",
+      "caption": "BTC's 1D sell window fires today — altseason rotation keeps running underneath. Next turn: Oct 18 buy.",
+      "duration_sec": 34.8,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-18-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-18-b.mp4"
+      }
+    },
     {
       "base": "ELCARO_SolThreeClocks_2026-09-18",
       "caption": "SOL forecast: short-term dips into buy windows, long-term climb toward 2028 — three clocks, one asset.",
@@ -116,6 +125,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-18-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-18-b.mp4"
+        }
+      },
+      "4": {
+        "base": "ELCARO_BtcSellWindow_2026-09-18",
+        "caption": "BTC's 1D sell window fires today — altseason rotation keeps running underneath. Next turn: Oct 18 buy.",
+        "duration_sec": 34.8,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-18-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-18-b.mp4"
         }
       }
     }
