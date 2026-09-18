@@ -1,8 +1,17 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T15:03:32.691891+00:00",
-  "count": 7,
+  "generated_at": "2026-09-18T18:11:52.327940+00:00",
+  "count": 8,
   "videos": [
+    {
+      "base": "ELCARO_AltseasonPulse_2026-09-18",
+      "caption": "ALTSEASON PULSE: BTC dominance falls, ETH & SOL flip bullish — but BTC's sell window opens today (Sep 18).",
+      "duration_sec": 38.4,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-18-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-18-b.mp4"
+      }
+    },
     {
       "base": "ELCARO_BtcSellWindow_2026-09-18",
       "caption": "BTC's 1D sell window fires today — altseason rotation keeps running underneath. Next turn: Oct 18 buy.",
@@ -134,6 +143,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-18-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-18-b.mp4"
+        }
+      },
+      "5": {
+        "base": "ELCARO_AltseasonPulse_2026-09-18",
+        "caption": "ALTSEASON PULSE: BTC dominance falls, ETH & SOL flip bullish — but BTC's sell window opens today (Sep 18).",
+        "duration_sec": 38.4,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-18-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_AltseasonPulse_2026-09-18-b.mp4"
         }
       }
     }
