@@ -1,8 +1,17 @@
 {
-  "date": "2026-09-17",
-  "generated_at": "2026-09-18T03:11:57.172100+00:00",
-  "count": 5,
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:12:35.088914+00:00",
+  "count": 6,
   "videos": [
+    {
+      "base": "ELCARO_SolThreeClocks_2026-09-18",
+      "caption": "SOL forecast: short-term dips into buy windows, long-term climb toward 2028 — three clocks, one asset.",
+      "duration_sec": 30.6,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-18-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-18-b.mp4"
+      }
+    },
     {
       "base": "ELCARO_BtcSellWindow_2026-09-17",
       "caption": "BTC LONG rides into a Sep 18 sell window as altseason drains the stables 🟢",
@@ -98,6 +107,15 @@
         "variants": {
           "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthTripleShort_2026-09-17-a.mp4",
           "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthTripleShort_2026-09-17-b.mp4"
+        }
+      },
+      "3": {
+        "base": "ELCARO_SolThreeClocks_2026-09-18",
+        "caption": "SOL forecast: short-term dips into buy windows, long-term climb toward 2028 — three clocks, one asset.",
+        "duration_sec": 30.6,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-18-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-18-b.mp4"
         }
       }
     }
