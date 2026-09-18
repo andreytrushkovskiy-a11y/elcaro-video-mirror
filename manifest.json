@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T18:11:52.327940+00:00",
-  "count": 8,
+  "generated_at": "2026-09-18T21:31:30.222553+00:00",
+  "count": 4,
   "videos": [
     {
       "base": "ELCARO_AltseasonPulse_2026-09-18",
@@ -22,6 +22,15 @@
       }
     },
     {
+      "base": "ELCARO_SigmaCorridor_2026-09-18",
+      "caption": "Where does price actually live? Inside the sigma corridor — 68% vs 95%, explained.",
+      "duration_sec": 34.6,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-18-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-18-b.mp4"
+      }
+    },
+    {
       "base": "ELCARO_SolThreeClocks_2026-09-18",
       "caption": "SOL forecast: short-term dips into buy windows, long-term climb toward 2028 — three clocks, one asset.",
       "duration_sec": 30.6,
@@ -29,104 +38,13 @@
         "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-18-a.mp4",
         "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-18-b.mp4"
       }
-    },
-    {
-      "base": "ELCARO_BtcSellWindow_2026-09-17",
-      "caption": "BTC LONG rides into a Sep 18 sell window as altseason drains the stables 🟢",
-      "duration_sec": 37.2,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-17-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-17-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_EthTripleShort_2026-09-17",
-      "caption": "ETH bends down on 4H, 1D and 1W — buy windows lining up.",
-      "duration_sec": 31.9,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthTripleShort_2026-09-17-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthTripleShort_2026-09-17-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_SigmaCorridor_2026-09-17",
-      "caption": "Why price stays inside its own sigma corridor — 68% vs 95%.",
-      "duration_sec": 31.1,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_SolThreeClocks_2026-09-17",
-      "caption": "SOL: three timeframes, three different clocks",
-      "duration_sec": 31.6,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-17-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-17-b.mp4"
-      }
-    },
-    {
-      "base": "ELCARO_SolTwoClocks_2026-09-17",
-      "caption": "SOL: two clocks, one chart",
-      "duration_sec": 35.3,
-      "variants": {
-        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolTwoClocks_2026-09-17-a.mp4",
-        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolTwoClocks_2026-09-17-b.mp4"
-      }
     }
   ],
   "slots": {
     "2026-09-15": {},
     "2026-09-16": {},
-    "2026-09-17": {
-      "3": {
-        "base": "ELCARO_SigmaCorridor_2026-09-17",
-        "caption": "Why price stays inside its own sigma corridor — 68% vs 95%.",
-        "duration_sec": 31.1,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SigmaCorridor_2026-09-17-b.mp4"
-        }
-      },
-      "4": {
-        "base": "ELCARO_SolTwoClocks_2026-09-17",
-        "caption": "SOL: two clocks, one chart",
-        "duration_sec": 35.3,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolTwoClocks_2026-09-17-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolTwoClocks_2026-09-17-b.mp4"
-        }
-      },
-      "5": {
-        "base": "ELCARO_SolThreeClocks_2026-09-17",
-        "caption": "SOL: three timeframes, three different clocks",
-        "duration_sec": 31.6,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-17-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_SolThreeClocks_2026-09-17-b.mp4"
-        }
-      }
-    },
+    "2026-09-17": {},
     "2026-09-18": {
-      "0": {
-        "base": "ELCARO_BtcSellWindow_2026-09-17",
-        "caption": "BTC LONG rides into a Sep 18 sell window as altseason drains the stables 🟢",
-        "duration_sec": 37.2,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-17-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcSellWindow_2026-09-17-b.mp4"
-        }
-      },
-      "1": {
-        "base": "ELCARO_EthTripleShort_2026-09-17",
-        "caption": "ETH bends down on 4H, 1D and 1W — buy windows lining up.",
-        "duration_sec": 31.9,
-        "variants": {
-          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthTripleShort_2026-09-17-a.mp4",
-          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_EthTripleShort_2026-09-17-b.mp4"
-        }
-      },
       "3": {
         "base": "ELCARO_SolThreeClocks_2026-09-18",
         "caption": "SOL forecast: short-term dips into buy windows, long-term climb toward 2028 — three clocks, one asset.",
