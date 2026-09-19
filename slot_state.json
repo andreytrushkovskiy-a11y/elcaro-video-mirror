@@ -1,12 +1,5 @@
 {
   "days": {
-    "2026-09-15": {
-      "0": "ELCARO_BtcSellWindow_2026-09-14",
-      "1": "ELCARO_SolForecastSep_2026-09-14",
-      "3": "ELCARO_XrpTimeframeSplit_2026-09-15",
-      "4": "ELCARO_FullExitBtc_2026-09-15",
-      "5": "ELCARO_FullExitVsGreed_2026-09-15"
-    },
     "2026-09-16": {
       "0": "ELCARO_DatesNotTargets_2026-09-15",
       "1": "ELCARO_SolThreeClocks_2026-09-15",
@@ -28,6 +21,10 @@
       "3": "ELCARO_SolThreeClocks_2026-09-18",
       "4": "ELCARO_BtcSellWindow_2026-09-18",
       "5": "ELCARO_AltseasonPulse_2026-09-18"
+    },
+    "2026-09-19": {
+      "0": "ELCARO_EthTripleShort_2026-09-18",
+      "1": "ELCARO_SigmaCorridor_2026-09-18"
     }
   }
 }
