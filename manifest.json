@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-24T00:11:21.358284+00:00",
+  "count": 4,
+  "videos": [
+    {
+      "base": "ELCARO_BtcMultiTfTension_2026-09-23",
+      "caption": "BTC: three clocks, three truths — daily & 4H top out this week, weekly still falls into Oct 12.",
+      "duration_sec": 34.3,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcMultiTfTension_2026-09-23-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcMultiTfTension_2026-09-23-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_BtcTwoClocks_2026-09-23",
+      "caption": "BTC: two fast clocks say up, the weekly clock says down. Which one blinks first?",
+      "duration_sec": 29.9,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcTwoClocks_2026-09-23-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcTwoClocks_2026-09-23-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_GreedFullExit_2026-09-23",
+      "caption": "71 on the Fear & Greed. Regime says full exit. ⛔",
+      "duration_sec": 32.2,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFullExit_2026-09-23-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFullExit_2026-09-23-b.mp4"
+      }
+    },
+    {
+      "base": "ELCARO_PositionSizing_2026-09-23",
+      "caption": "Position sizing: let the stop decide, not your gut.",
+      "duration_sec": 28.9,
+      "variants": {
+        "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-23-a.mp4",
+        "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-23-b.mp4"
+      }
+    }
+  ],
+  "slots": {
+    "2026-09-21": {},
+    "2026-09-22": {},
+    "2026-09-23": {
+      "3": {
+        "base": "ELCARO_PositionSizing_2026-09-23",
+        "caption": "Position sizing: let the stop decide, not your gut.",
+        "duration_sec": 28.9,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-23-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_PositionSizing_2026-09-23-b.mp4"
+        }
+      },
+      "4": {
+        "base": "ELCARO_BtcTwoClocks_2026-09-23",
+        "caption": "BTC: two fast clocks say up, the weekly clock says down. Which one blinks first?",
+        "duration_sec": 29.9,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcTwoClocks_2026-09-23-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcTwoClocks_2026-09-23-b.mp4"
+        }
+      },
+      "5": {
+        "base": "ELCARO_BtcMultiTfTension_2026-09-23",
+        "caption": "BTC: three clocks, three truths — daily & 4H top out this week, weekly still falls into Oct 12.",
+        "duration_sec": 34.3,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcMultiTfTension_2026-09-23-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_BtcMultiTfTension_2026-09-23-b.mp4"
+        }
+      }
+    },
+    "2026-09-24": {
+      "0": {
+        "base": "ELCARO_GreedFullExit_2026-09-23",
+        "caption": "71 on the Fear & Greed. Regime says full exit. ⛔",
+        "duration_sec": 32.2,
+        "variants": {
+          "a": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFullExit_2026-09-23-a.mp4",
+          "b": "https://andreytrushkovskiy-a11y.github.io/elcaro-video-mirror/videos/ELCARO_GreedFullExit_2026-09-23-b.mp4"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "days": {
+    "2026-09-21": {
+      "0": "ELCARO_CrashFlightSafety_2026-09-20",
+      "1": "ELCARO_BtcTimeframeClash_2026-09-20",
+      "3": "ELCARO_EthTripleShort_2026-09-21",
+      "4": "ELCARO_FlightToSafety_2026-09-21",
+      "5": "ELCARO_BtcDominancePulse_2026-09-21"
+    },
+    "2026-09-22": {
+      "0": "ELCARO_BtcTwoClocks_2026-09-21",
+      "1": "ELCARO_PhaseZeroOne_2026-09-21",
+      "2": "ELCARO_BtcStuckRally_2026-09-21",
+      "3": "ELCARO_BtcSellWindow_2026-09-22",
+      "4": "ELCARO_PositionSizing_2026-09-22",
+      "5": "ELCARO_PositionSizingEdu_2026-09-22"
+    },
+    "2026-09-23": {
+      "0": "ELCARO_BtcThreeClocks_2026-09-22",
+      "1": "ELCARO_FullExitBtcTop_2026-09-22",
+      "3": "ELCARO_PositionSizing_2026-09-23",
+      "4": "ELCARO_BtcTwoClocks_2026-09-23",
+      "5": "ELCARO_BtcMultiTfTension_2026-09-23"
+    },
+    "2026-09-24": {
+      "0": "ELCARO_GreedFullExit_2026-09-23"
+    }
+  }
+}
